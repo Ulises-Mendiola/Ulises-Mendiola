@@ -1,8 +1,9 @@
+![Mi Foto](ruta/a/tu/imagen.jpg)
 # Hola, soy Héctor Ulises Mendiola Morales 👋
 
 ## Sobre mí
 - 🌟 Desarrollador de Software en formación en la Universidad Autónoma de Occidente (UAdeO), enfocado en Robótica, Inteligencia Artificial, Seguridad Informática y Desarrollo Web.
-- 🏆 3er lugar en el concurso de programación Coding Cup Sinaloa 2021 en la categoría OM.
+- 🏆 3er lugar en el concurso de programación Coding Cup Sinaloa 2021 en la categoría OMI.
 - 🎮 Aficionado a los videojuegos y series.
 - 🥁 Me encanta tocar la batería y explorar nuevas tecnologías.
 
