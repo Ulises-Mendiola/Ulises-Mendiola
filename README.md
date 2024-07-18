@@ -1,4 +1,4 @@
-![Mi Foto]([ruta/a/tu/imagen.jpg](https://github.com/Ulises-Mendiola/Ulises-Mendiola/blob/main/Grey%20Red%20Modern%20LinkedIn%20Article%20Cover%20Image.png))
+![Mi Foto](https://github.com/Ulises-Mendiola/Ulises-Mendiola/blob/main/Grey%20Red%20Modern%20LinkedIn%20Article%20Cover%20Image.png)
 # Hola, soy Héctor Ulises Mendiola Morales 👋
 
 ## Sobre mí
