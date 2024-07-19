@@ -25,7 +25,7 @@
 ## Cómo contactarme
 - 📫 **Correo electrónico**: [hmendiolamorale@gmail.com](mailto:hmendiolamorale@gmail.com)
 - 💼 **LinkedIn**: [Héctor Ulises Mendiola Morales](https://www.linkedin.com/in/hector-ulises-mendiola-morales-75b1b131a)
-- 📞 **WhatsApp**: http://wa.me/+52 669 278 5121
+- 📞 **WhatsApp**: http://wa.me/+526692785121
 - 🌐 **Portafolio**: En proceso...
 
 ## Hechos divertidos
