@@ -10,7 +10,7 @@
 ## Proyectos en los que trabajé 
 - 🔭 **Proyecto 'PATO'**: Plataforma de Análisis y Training Optimizado, enfocado en la corrección de ejercicios en tiempo real mediante visión artificial.
 - 🖥️ **Sistema de edición autónomo**: Desarrollo de un sistema en Python para agilizar la edición de fotos.
-- 🐂 **BullService**: Es el proyecto en el que actualmente estoy trabajando junto a , enfocado en la ciberseguridad coorporativa.
+- 🐂 **BullService**: Es el proyecto en el que actualmente estoy trabajando junto a  ING-Ricardo-Lopez y GabFrogGo, enfocado en la ciberseguridad coorporativa.
 
 ## Actualmente aprendiendo
 - 🌱 Visión Artificial y análisis de imágenes en Python.
