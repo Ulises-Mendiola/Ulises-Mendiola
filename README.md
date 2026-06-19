@@ -10,12 +10,12 @@
 ## Proyectos en los que trabajé 
 - 🔭 **Estudio 419**: Una Landing Page para un estudio de arte y tatuaje, orientada tanto al ámbito comercial como educativo, con un enfoque integral centrado en la promoción, difusión y enseñanza del arte. El sitio destaca los servicios del estudio, la exhibición de trabajos artísticos, la formación de nuevos talentos y la construcción de una comunidad creativa alrededor de las distintas expresiones artísticas.
   - https://419studio.online/
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/298d3516-9c7c-48f1-bab3-011a076ee5c7" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/e2a4a456-d06c-4c02-8368-7c4c04d80f1e" /> <img width="399" alt="image" src="https://github.com/user-attachments/assets/8a06bd35-e0dd-40d5-90a2-dfcefab03532" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/298d3516-9c7c-48f1-bab3-011a076ee5c7" /> <img width="395" alt="image" src="https://github.com/user-attachments/assets/e2a4a456-d06c-4c02-8368-7c4c04d80f1e" /> <img width="395" alt="image" src="https://github.com/user-attachments/assets/8a06bd35-e0dd-40d5-90a2-dfcefab03532" />
 
 
 - **Click & Go**: Landing Page profesional diseñada para presentar y promocionar mis servicios de desarrollo de software, gestión estratégica de redes sociales y branding.
   - https://click-go.digital/
-    <img width="800" alt="image" src="https://github.com/user-attachments/assets/e9fb90e1-5cd6-41b1-86b6-c387a99018cd" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/d3e82d92-6684-4d94-8e3a-22e66a537508" /> <img width="399" alt="image" src="https://github.com/user-attachments/assets/4bdf724f-15f0-44a2-ae8d-ada2a1b2e6e0" />
+    <img width="800" alt="image" src="https://github.com/user-attachments/assets/e9fb90e1-5cd6-41b1-86b6-c387a99018cd" /> <img width="395" alt="image" src="https://github.com/user-attachments/assets/d3e82d92-6684-4d94-8e3a-22e66a537508" /> <img width="395" alt="image" src="https://github.com/user-attachments/assets/4bdf724f-15f0-44a2-ae8d-ada2a1b2e6e0" />
 
 
 
