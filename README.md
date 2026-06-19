@@ -31,9 +31,6 @@
 ## Buscando colaborar en
 - Proyectos desafiantes que me permitan aplicar y fortalecer mis conocimientos, enfrentar nuevos retos tecnológicos y adquirir experiencia práctica a través del trabajo colaborativo, el aprendizaje continuo y la resolución de problemas reales.
 
-## Pregúntame sobre
-- 💬 Mis proyectos personales.
-- 🖼️ Diseño con Photoshop, Canva, Premier Pro, etc.
 
 ## Cómo contactarme
 - 📫 **Correo electrónico**: [hmendiolamorale@gmail.com](mailto:hmendiolamorales@gmail.com)
