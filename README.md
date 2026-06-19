@@ -10,7 +10,7 @@
 ## Proyectos en los que trabajé 
 - 🔭 **Estudio 419**: Una Landing Page para un estudio de arte y tatuaje, orientada tanto al ámbito comercial como educativo, con un enfoque integral centrado en la promoción, difusión y enseñanza del arte. El sitio destaca los servicios del estudio, la exhibición de trabajos artísticos, la formación de nuevos talentos y la construcción de una comunidad creativa alrededor de las distintas expresiones artísticas.
   - https://419studio.online/
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/298d3516-9c7c-48f1-bab3-011a076ee5c7" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/e2a4a456-d06c-4c02-8368-7c4c04d80f1e" /> <img width="350" alt="image" src="https://github.com/user-attachments/assets/8a06bd35-e0dd-40d5-90a2-dfcefab03532" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/298d3516-9c7c-48f1-bab3-011a076ee5c7" /> <img width="385" alt="image" src="https://github.com/user-attachments/assets/e2a4a456-d06c-4c02-8368-7c4c04d80f1e" /> <img width="38" alt="image" src="https://github.com/user-attachments/assets/8a06bd35-e0dd-40d5-90a2-dfcefab03532" />
 
 
 - **Click & Go**: Landing Page profesional diseñada para presentar y promocionar mis servicios de desarrollo de software, gestión estratégica de redes sociales y branding.
